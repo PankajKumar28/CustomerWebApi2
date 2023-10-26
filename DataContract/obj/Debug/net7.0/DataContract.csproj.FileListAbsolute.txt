@@ -1,0 +1,11 @@
+E:\Pankaj\CustomerWebApi\DataContract\bin\Debug\net7.0\DataContract.deps.json
+E:\Pankaj\CustomerWebApi\DataContract\bin\Debug\net7.0\DataContract.dll
+E:\Pankaj\CustomerWebApi\DataContract\bin\Debug\net7.0\DataContract.pdb
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\DataContract.AssemblyInfoInputs.cache
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\DataContract.AssemblyInfo.cs
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\DataContract.csproj.CoreCompileInputs.cache
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\DataContract.dll
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\refint\DataContract.dll
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\DataContract.pdb
+E:\Pankaj\CustomerWebApi\DataContract\obj\Debug\net7.0\ref\DataContract.dll

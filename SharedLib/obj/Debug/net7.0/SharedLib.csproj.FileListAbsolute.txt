@@ -1,0 +1,12 @@
+E:\Pankaj\CustomerWebApi\SharedLib\bin\Debug\net7.0\SharedLib.deps.json
+E:\Pankaj\CustomerWebApi\SharedLib\bin\Debug\net7.0\SharedLib.dll
+E:\Pankaj\CustomerWebApi\SharedLib\bin\Debug\net7.0\SharedLib.pdb
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\SharedLib.AssemblyInfoInputs.cache
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\SharedLib.AssemblyInfo.cs
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\SharedLib.csproj.CoreCompileInputs.cache
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\SharedLib.dll
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\refint\SharedLib.dll
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\SharedLib.pdb
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\ref\SharedLib.dll
+E:\Pankaj\CustomerWebApi\SharedLib\obj\Debug\net7.0\SharedLib.csproj.AssemblyReference.cache

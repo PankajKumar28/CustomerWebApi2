@@ -1,0 +1,14 @@
+E:\Pankaj\CustomerWebApi\DataLib\bin\Debug\net7.0\DataLib.deps.json
+E:\Pankaj\CustomerWebApi\DataLib\bin\Debug\net7.0\DataLib.dll
+E:\Pankaj\CustomerWebApi\DataLib\bin\Debug\net7.0\DataLib.pdb
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.AssemblyInfoInputs.cache
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.AssemblyInfo.cs
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.csproj.CoreCompileInputs.cache
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.dll
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\refint\DataLib.dll
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.pdb
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\ref\DataLib.dll
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.csproj.AssemblyReference.cache
+E:\Pankaj\CustomerWebApi\DataLib\bin\Debug\net7.0\DataLib.runtimeconfig.json
+E:\Pankaj\CustomerWebApi\DataLib\obj\Debug\net7.0\DataLib.genruntimeconfig.cache
